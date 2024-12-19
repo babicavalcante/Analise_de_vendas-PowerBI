@@ -15,6 +15,5 @@ Requisitos do Projeto:
    - Modelos vendidos por fabricante
 4. Tabela de Modelos e Cores: O painel inclui uma tabela que lista os modelos e cores de carros vendidos.
 
-Objetivo do Projeto:
 O objetivo principal foi criar um painel no Power BI que fornecesse uma análise clara e interativa das vendas de carros, permitindo insights valiosos sobre custos, vendas e tendências de mercado. Além disso, foi solicitado que eu apresentasse uma estratégia para aumentar as vendas, baseada nas análises realizadas ao longo da construção do painel.
 Ao final, pode-se fazer a inclusão de recomendações estratégicas para o aumento das vendas com base na análise dos dados.
